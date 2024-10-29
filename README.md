@@ -1,2 +1,5 @@
-# mineflayer-auto-login-rogister
-This code auto login/rogister in minecraft Cracked Server
+# mineflayer-auto-login-register
+This code auto login/register in minecraft Cracked Server
+
+My Discord User: @mrlejen
+if you need help message me!
